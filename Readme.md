@@ -1,13 +1,13 @@
-# 📊 Sales Dashboard (Power BI)
+# 📊 Sales Performance Dashboard (Power BI)
 
-An interactive Power BI Sales Dashboard built to analyze regional and product-level sales performance using a clean, business-ready visual design.  
-The dashboard provides instant insights through KPIs, bar charts, slicers, and trend analysis.
+
+An interactive Power BI dashboard built to explore regional and product-level sales performance and practice clear KPI reporting, filtering, and visual structure.
+This project focuses on building clean, interpretable visuals rather than deep financial or profitability analysis.
 
 ---
 
 ## 🔍 Project Overview
-This Power BI project visualizes a 3-month sales dataset to help stakeholders understand:
-
+This Power BI project visualizes a 3-month sales dataset to support exploratory sales analysis and dashboard interactivity, including:
 - Which regions generate the most sales  
 - Which products perform best  
 - How sales change over time  
@@ -66,7 +66,8 @@ Built using Power Query, Power BI visuals, custom formatting, and slicers for in
 - Bar/Column/Line Charts  
 - Slicers & interactive filtering  
 - Dashboard layout & UI/UX  
-- Insight storytelling  
+- Clear KPI reporting
+
 
 ---
 
@@ -93,4 +94,5 @@ Built using Power Query, Power BI visuals, custom formatting, and slicers for in
 
 ## ⭐ Created by  
 **Hitesh Garg**  
-Aspiring Data Analyst → Finance Data Scientist
+Finance & Business Data Analyst
+
